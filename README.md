@@ -1,9 +1,11 @@
 # Datacilla_Diabetes_Dive
 
 A SQL powered dive into diabetes risk factors-glucose,BMI, and CillaGzilla approved insights.
+##:bar_chart:
+Check the interactive dashboard on Tableau ➡️ (https://10ay.online.tableau.com/t/opriscilla24-caf5e8d3bd/views/CillaGzillaStompingThroughDiabetesData/StompingThroughtheStatsADataDiveintoDiabetes) 
 
 -- Non-diabetics VS Diabetic
-
+ 
     SELECT 
     CASE 
     WHEN Outcome = 1 THEN 'Diabetic'
