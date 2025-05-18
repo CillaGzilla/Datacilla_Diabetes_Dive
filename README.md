@@ -2,7 +2,7 @@
 
 A SQL powered dive into diabetes risk factors-glucose,BMI, and CillaGzilla approved insights.
 
-## 📊  Check the interactive dashboard on Tableau ➡️ (https://10ay.online.tableau.com/t/opriscilla24-caf5e8d3bd/views/CillaGzillaStompingThroughDiabetesData/StompingThroughtheStatsADataDiveintoDiabetes) 
+## 📊  Check the interactive dashboard on Tableau ⬇️ (https://10ay.online.tableau.com/t/opriscilla24-caf5e8d3bd/views/CillaGzillaStompingThroughDiabetesData/StompingThroughtheStatsADataDiveintoDiabetes) 
 
 -- Non-diabetics VS Diabetic
  
